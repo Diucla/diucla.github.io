@@ -181,7 +181,7 @@ h3.tittle:after, h3.tittle:before {
 }
 
 /*O QUE FACO PARA TI*/
-#Oque-faco{
+#services{
     background: url(../images/serve.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;

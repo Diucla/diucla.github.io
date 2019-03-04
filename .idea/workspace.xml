@@ -2,59 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70d63d6e-c879-4979-bfb4-b13e28df2ee4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/computer-peq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/computer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/computerN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/dedo-peq (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/dedo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/dedoN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/definicao-peq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/definicao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/definicaoN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/icon-menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/menu-peq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/menu-peqN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image-fundo-esq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image-fundo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/serve.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/npm.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="862" column="54" lean-forward="true" selection-start-line="862" selection-start-column="54" selection-end-line="862" selection-end-column="54" />
+            <state relative-caret-position="-1354">
+              <caret line="229" column="46" lean-forward="true" selection-start-line="229" selection-start-column="46" selection-end-line="229" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -139,17 +87,6 @@
             <path>
               <item name="diucla.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="diucla.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diucla.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diucla.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="logo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diucla.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diucla.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -190,12 +127,12 @@
       <updated>1524365745842</updated>
       <workItem from="1524365759569" duration="1317000" />
       <workItem from="1551666857086" duration="607000" />
-      <workItem from="1551673148751" duration="2029000" />
+      <workItem from="1551673148751" duration="3291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3953000" />
+    <option name="totallyTimeSpent" value="5215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -276,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="862" column="54" lean-forward="true" selection-start-line="862" selection-start-column="54" selection-end-line="862" selection-end-column="54" />
+        <state relative-caret-position="-1354">
+          <caret line="229" column="46" lean-forward="true" selection-start-line="229" selection-start-column="46" selection-end-line="229" selection-end-column="46" />
         </state>
       </provider>
     </entry>

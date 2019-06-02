@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70d63d6e-c879-4979-bfb4-b13e28df2ee4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="574" column="45" selection-start-line="574" selection-start-column="45" selection-end-line="574" selection-end-column="45" />
+            <state relative-caret-position="266">
+              <caret line="203" column="52" lean-forward="true" selection-start-line="203" selection-start-column="52" selection-end-line="203" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -32,6 +33,7 @@
       <find>arlo_tm_animation_text_word</find>
       <find>send_message</find>
       <find>the no</find>
+      <find>sal</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -46,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1366" />
     <option name="height" value="768" />
   </component>
@@ -106,12 +108,12 @@
       <workItem from="1551928831416" duration="166000" />
       <workItem from="1551929975911" duration="7087000" />
       <workItem from="1552140870789" duration="1510000" />
-      <workItem from="1559486422628" duration="1215000" />
+      <workItem from="1559486422628" duration="1302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16098000" />
+    <option name="totallyTimeSpent" value="16185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -158,8 +160,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="574" column="45" selection-start-line="574" selection-start-column="45" selection-end-line="574" selection-end-column="45" />
+        <state relative-caret-position="266">
+          <caret line="203" column="52" lean-forward="true" selection-start-line="203" selection-start-column="52" selection-end-line="203" selection-end-column="52" />
         </state>
       </provider>
     </entry>
